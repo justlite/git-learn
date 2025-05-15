@@ -1,8 +1,8 @@
 ### Команды Git
 __________________________________________
 #### Настройка git
-git config --global user.name "Макаров Сергей" <br/>
-git config --global user.email "admserega@gmail.com"
+git config --global user.name "username" <br/>
+git config --global user.email "email@gmail.com"
 __________________________________________
 #### Проверить настройки
 cat ~/.gitconfig
